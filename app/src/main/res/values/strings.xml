@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="main_title">Convertir Celsius / Fahrenheit</string>
+    <string name="main_hint_celsius">Entrez un Celsius</string>
+    <string name="main_celsius">°C</string>
+    <string name="main_hint_fahrenheit">Entrez un Fahrenheit</string>
+    <string name="main_fahrenheint">°F</string>
+    <string name="main_save_button">Sauvegarder</string>
+    <string name="main_text_convert">%s°C est égal à %s°F</string>
+</resources>

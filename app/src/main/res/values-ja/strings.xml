@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="main_title">摂氏/華氏の変換</string>
+    <string name="main_hint_celsius">セルシウスを入力する</string>
+    <string name="main_celsius">°C</string>
+    <string name="main_hint_fahrenheit">華氏を入力する</string>
+    <string name="main_fahrenheint">°F</string>
+    <string name="main_save_button">セーブ</string>
+    <string name="main_text_convert">%s°C は等しい %s°F</string>
+</resources>
